@@ -6,4 +6,4 @@
 
 **Hello CSE15L**
 
-[Link to cheat sheet] (https://commonmark.org/help/)
+[Link to cheat sheet](https://commonmark.org/help/)
