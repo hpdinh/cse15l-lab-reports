@@ -1,4 +1,4 @@
-#CSE15L Lab 2!
+# CSE15L Lab 2!
 
 ## Welcome to section!
 
