@@ -1,1 +1,1 @@
-![Image]("Lab_webpage.PNG")
+![Image](lab_webpage.PNG)
