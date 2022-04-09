@@ -33,6 +33,6 @@ System.out.println("Hello CSE15L");
 
 **I am now on VSCode :)** 
 
-[Link to second file]("https://hpdinh.github.io/cse15l-lab-reports/lab-report-1-week-2.html")
+[Link to second file](test.html)
 
-[Link to lab report]("https://hpdinh.github.io/cse15l-lab-reports/lab-report-1-week-2.html")
+[Link to lab report](lab-report-1-week-2.html)
