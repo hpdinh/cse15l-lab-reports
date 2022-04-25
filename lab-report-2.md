@@ -3,7 +3,7 @@
 ## 1. Bug fix for .md files with spaces between link and parantheses
 - Added if(closeBracket - openParen == -1) to check if the closing bracket and open parantheses are touching
 ![Image](bug-fix.PNG)
-- [File that caused bug](https://hpdinh.github.io/cse15l-lab-reports/mytest3-file.html)
+- [File that caused bug](https://hpdinh.github.io/cse15l-lab-reports/mytest3-file.md)
 - Failed result
 ![Image](bug-fix1-fail.PNG)
 
@@ -16,7 +16,7 @@
 
 ![Image](bug-fix2.PNG)
 
-- [File that caused the bug](https://hpdinh.github.io/cse15l-lab-reports/test-file3.html)
+- [File that caused the bug](https://hpdinh.github.io/cse15l-lab-reports/test-file3.md)
 
 - Failed Result
 ![Image](bug-fix2-fail.PNG)
@@ -31,7 +31,7 @@
 
 ![Image](bug-fix3.PNG)
 
-- [File that caused the bug](https://hpdinh.github.io/cse15l-lab-reports/test-file6.html)
+- [File that caused the bug](https://hpdinh.github.io/cse15l-lab-reports/test-file6.md)
 
 - Failed Result
 ![Image](bug-fix3-fail.PNG)
