@@ -36,5 +36,5 @@ System.out.println("Hello CSE15L");
 [Link to second file](test.html)
 
 [Link to lab report](https://hpdinh.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
-test
-test 2
+
+[Link to lab report 2](https://hpdinh.github.io/cse15l-lab-reports/lab-report-2.html)
