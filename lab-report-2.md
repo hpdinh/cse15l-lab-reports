@@ -12,7 +12,7 @@
 ***
 ## 2. Bug fix for .md files with no links
 
-- Add if(markdown.indexOf("[", currentIndex) == -1 || markdown.indexOf("]",currentIndex) == -1 || markdown.indexOf("(", currentIndex) == -1 || markdown.indexOf(")", currentIndex) == -1) to check if there are enough characters in the line to create a link
+- Add if statement to check if there are enough of the required characters in the line to create a link
 
 ![Image](bug-fix2.PNG)
 
