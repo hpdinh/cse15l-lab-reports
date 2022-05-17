@@ -18,8 +18,9 @@
 - Private key is stored in ieng6 .ssh folder in id_ed25519
 ![Image](lab-report-3-privkey.PNG)
 
-- Pushing from ieng6 still does not work after adding public key to github
-![Image](lab-report-3-giterror.PNG)
+- Commiting and pushing from remote access
+![Image](lab-report-3-remotepush.PNG)
+[Commit Link](https://github.com/hpdinh/markdown-parser/commit/41b59c543439f222084752632798b25fffee7f7f)
 
 ## Copy from whole directories using scp -r
 
@@ -31,3 +32,6 @@
 ![Image](lab-report-3-test.PNG)
 
 - Copying directory over to remote using scp and also running test in one line
+
+![Image](lab-report-3-oneline.PNG)
+![Image](lab-report-3-testpassed.PNG)
