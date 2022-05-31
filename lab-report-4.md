@@ -39,5 +39,5 @@ For my implementation of markdown-parser, an easy fix would be to change the if 
 To fix the error in this test case, you would have to implement a way to not count the brackets inside of the heading for the link. This would require an entirely new method which utilizes a while loop to search for the specific parantheses.
 
 # Snippet 3 Fix
-Since both implementations passed, a fix is not needed.
+Since both implementations passed, a fix is not needed. The code I added to pass this test was an if statement that made sure that the closing bracket and opening parentheses were touching which prevented the link from going to the next line.
 
