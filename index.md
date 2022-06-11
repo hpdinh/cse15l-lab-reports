@@ -42,3 +42,5 @@ System.out.println("Hello CSE15L");
 [Link to lab report 3](https://hpdinh.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
 
 [Link to lab report 4](https://hpdinh.github.io/cse15l-lab-reports/lab-report-4.html)
+
+[Link to lab report 5](https://hpdinh.github.io/cse15l-lab-reports/lab-report-5.html)

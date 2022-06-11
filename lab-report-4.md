@@ -7,28 +7,28 @@
 ## Snippet 1
 
 **My markdown-parser**
-![Image](lab-report-test1.PNG)
+![Image](images/lab-report-test1.PNG)
 
 **Other Group markdown-parser**
-![Image](lab-report-grouptest.PNG)
+![Image](images/lab-report-grouptest.PNG)
 
 For both implementations of markdown-parser failed. The expected did not include "url.com" in the array but the output did. 
 
 #Snippet 2
 **My markdown-parser**
-![Image](lab-report-test2.PNG)
+![Image](images/lab-report-test2.PNG)
 
 **Other Group markdown-parser**
-![Image](lab-report-grouptest2.PNG)
+![Image](images/lab-report-grouptest2.PNG)
 
 For both implementations of markdown-parser failed. The expected included all the links, but both implmentations included none of them.
 
 #Snippet 3
 **My markdown-parser**
-![Image](lab-report-test3.PNG)
+![Image](images/lab-report-test3.PNG)
 
 **Other Group markdown-parser**
-![Image](lab-report-grouptest3.PNG)
+![Image](images/lab-report-grouptest3.PNG)
 
 For both implementations of markdown-parser, it passed. Since none of the links in the .md file are in one line, it should not have read in any of the links. This is why the test passed, as both the expeted and output were empty arraylists
 

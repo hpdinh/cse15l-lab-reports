@@ -14,12 +14,12 @@
 
 - Add if statement to check if there are enough of the required characters in the line to create a link
 
-![Image](bug-fix2.PNG)
+![Image](images/bug-fix2.PNG)
 
 - [File that caused the bug](https://hpdinh.github.io/cse15l-lab-reports/test-file3.md)
 
 - Failed Result
-![Image](bug-fix2-fail.PNG)
+![Image](images/bug-fix2-fail.PNG)
 
 - The result of this test before adding the if statement create an index out of bounds error. This is because the     .indexOf() method returns -1 if the character is not found. So when there is no character, the next time .indexOf() is called, it will use -1 resulting in the index out of bounds error.
 
@@ -29,12 +29,12 @@
 
 - Added if(markdown.indexOf("!") + 1 == markdown.indexOf("[")) to check if there is an exclamation point before the bracket. If there is it is an image so break out of the loop
 
-![Image](bug-fix3.PNG)
+![Image](images/bug-fix3.PNG)
 
 - [File that caused the bug](https://hpdinh.github.io/cse15l-lab-reports/test-file6.md)
 
 - Failed Result
-![Image](bug-fix3-fail.PNG)
+![Image](images/bug-fix3-fail.PNG)
 
 - The result of this test before adding the if statement is wrong because it inputs "page.com" into the array list even though it is an image and not a link. 
 
